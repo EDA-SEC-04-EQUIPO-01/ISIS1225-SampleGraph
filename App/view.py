@@ -42,9 +42,14 @@ operación seleccionada.
 # ___________________________________________________
 #  Variables
 # ___________________________________________________
-
-
-servicefile = 'bus_routes_14000.csv'
+#              bus_routes_50.csv 
+#              bus_routes_300.csv 
+#              bus_routes_1000.csv  
+#              bus_routes_3000.csv      
+#              bus_routes_7000.csv    
+#              bus_routes_10000.csv    
+#              bus_routes_14000.csv    
+servicefile = 'bus_routes_10000.csv'
 initialStation = None
 recursionLimit = 20000
 
